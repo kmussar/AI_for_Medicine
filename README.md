@@ -11,4 +11,4 @@ For more information please see:
 * https://www.deeplearning.ai/ai-for-medicine/
 * https://www.coursera.org/specializations/ai-for-medicine
 
-**Specifically, I am in the process of completeing course 3, "AI for Medical Treatment" where we are learning to work with BERT and Natural Language Processing Tools.** 
+**Specifically, I am in the process of completeing course 3, "AI for Medical Treatment" where we are learning to work with Natural Language Processing Tools (BERT, Tensorflow) to process medical reports.** 
