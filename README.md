@@ -1,7 +1,5 @@
 # AI_for_Medicine
-Notebooks used in AI for Medicine Specialization courses
-
-Specialization as described by the course organizers: 
+This repo is a collection of the notebooks that I am using throughout my completion of the AI for Medicine Specialization courses. The specialization is described by course organizers as:  
 
 AI is transforming the practice of medicine. It’s helping doctors diagnose patients more accurately, make predictions about patients’ future health, and recommend better treatments. In this Specialization, you’ll gain practical experience applying machine learning to concrete problems in medicine. You’ll learn how to:
 * Diagnose diseases from x-rays and 3D MRI brain images
