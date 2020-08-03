@@ -3,7 +3,7 @@
 These notebooks contain code samples and short excercises completed during completion of the AI for Medicine Specialization. For the most part, these notebooks do not contain my original code, but I am sharing them to provide more context on the course material. The code that I've written for the weekly assignments is unfortunatley not publishable due to the Coursera homor code. 
 
 ## Course #3 
-### Week 1: 
+### Week 1: Introduction to pandas and sklearn. Learning about randomized control trials, treatment effects, and model interpretation. 
 **Notebooks:** 
 * pandas - Introduction to dataframes and working with pandas
 * sklearn - Introduction to sklearn (implementing logistic regression)
